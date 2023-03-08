@@ -1,0 +1,105 @@
+# DHd 2023
+
+## Start in den Workshop
+
+|  |  |
+|:---|---|
+| date | 14-03-2023 |
+| author | Anne Klammt |
+| license | CC 0.0 |
+
+---
+
+### Wer sind wir - Teil 1
+
+* Anne und Timo sind vor Ort, Florian und Fabian kommen aus Mainz und Santa Barbara dazu
+
+---
+
+### Arbeitsumgebung
+
+* Miroboard / Framapads
+* Mattermost / Slack
+* Zoom (Breakout-groups & Plenum)
+
+---
+
+### Wer sind wir - Teil 2
+
+* Name, Arbeitsort und Farbpunkt
+
+* Farbpunkt auf Miroboard setzen
+
+|  |  |
+|:---|---|
+| Farbe | Bedeutung |
+| blau | überwiegend Anwender\*in |
+| gelb | überwiegend Entwickler\*in |
+| weiß | ich will/kann mich nicht entscheiden |
+
+----
+
+#### Selbsteinschätzung - Kompetenzen
+
+* Miroboard
+
+<!-- auf dem Miroboard sind Fragen angegeben, die angekreuzt werden können, bliebt aber anonym --->
+
+---
+
+## About
+
+----
+
+### Ziele
+
+
+* Erwerb der Kenntnis von wesentlichen Parametern zur Beurteilung einer Software im Forschungskontext
+* Sammeln von Erfahrungen in der Zusammenstellung von spezifischen Nutzeranforderungen an eine Software
+* Erwerb der Kenntnis von Vorgehensweisen, um Informationen zur handwerklichen Qualität von Software zu sammeln
+* Sammeln von Erfahrungen im Einschätzen eigener Kompetenzen zur Beurteilung von Software
+* Sammeln von Erfahrungen im (gemeinsamen) Verfassen einer Softwarerezension im Forschungskontext
+
+----
+
+### Planung
+
+| Abschnitt |  Thema |
+|---|---|
+| 0,5 Tage | Anwender\*in |
+| 0,5 Tage | Entwickler\*in |
+|  | Synthese | 
+
+----
+
+### Wo erscheinen Reviews im "DHd -Raum"
+
+* [CKIT](https://journals.ub.uni-heidelberg.de/index.php/ckit/about)
+* [Archäologische Informationen](https://journals.ub.uni-heidelberg.de/index.php/arch-inf)
+* [RIDE](https://ride.i-d-e.de/) 
+
+---
+
+## Forschungskontext der Software und grundlegende Funktionen
+
+----
+
+### Vorstellung der Forschungssoftwaren in ihren geisteswissenschaftlichen Anwendungsbereichen
+
+* Pixplot
+* SPARQLing Unicorn QGIS Plugin
+* Wax
+
+----
+
+#### Pixplot
+
+* Software, die aus den Digital Humanities heraus für die Kunstgeschichte und Bildsammlungen entwickelt wurde. Das Konzept stellten Frederic Kaplan, Isabella di Leonardo und Benoit Seguin 2016 vor ([Abstract](https://dh2016.adho.org/abstracts/348)) 
+* Ausgangspunkt
+  * in großen Sammlungen von Bildern inhaltliche Suchen durchführen, die nicht auf die textuellen Metadaten gerichtet sind
+  * Clusterung nach Bildähnlichkeit
+  * Ausgabe als Visualisierung, erlaubt Ansicht der Cluster
+  * 2016 wurden Versuche dazu durchfgeführt Genre - z.B. Stilleben - oder Motivähnlichkeiten in einem Datensatz mit gut 30000 Digitaliaten von Gemälden zu erkennen
+ 
+
+
