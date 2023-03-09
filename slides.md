@@ -39,6 +39,8 @@
 
 * Gemeinsames Sammeln und Gruppieren
 
+[Framapad *II Warum Software rezensieren?*](https://mypads2.framapad.org/p/warum-software-rezensieren-rs4rxb9s8)
+
 ----
 
 ### Wer publiziert Reviews im "DHd -Raum"
@@ -54,12 +56,14 @@
 ----
 
 #### Erwerb der Kenntnis 
+
 * von wesentlichen Parametern zur Beurteilung einer Software im Forschungskontext
 * zur Vorgehensweisen, um Informationen zur handwerklichen Qualität von Software zu sammeln
 
 ----
 
 #### Sammeln von Erfahrungen 
+
 * in der Zusammenstellung von spezifischen Nutzeranforderungen an eine Software
 * im Einschätzen eigener Kompetenzen zur Beurteilung von Software
 * im (gemeinsamen) Verfassen einer Softwarerezension im Forschungskontext
@@ -149,15 +153,17 @@ Wozu soll Wax eingesetzt werden?
 
 ---
 
-### Auswahl von Kriterien zur Beurteilung der generellen Funktion der Software
+### Kriterien zur Beurteilung der Funktion in der Forschung
 
-* Sammlung in Framapads
+Framapads: [IIIa](https://mypads2.framapad.org/p/iiia-funktion-in-der-forschung-qq4ryb93s), [IIIb](https://mypads2.framapad.org/p/iiib-funktion-in-der-forschung-w44rzb9eu), [IIIc](https://mypads2.framapad.org/p/iiic-funktion-in-der-forschung-934s0b94g) - Funktion in der Forschung
 
 ----
 
 #### Patenschaften
 
 * Entscheidung für eine der Softwares für die Bearbeitung heute
+
+Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLing Unicorn](https://mypads2.framapad.org/p/sparqling-unicorn-gh4s7b90f), [Wax](https://mypads2.framapad.org/p/wax-xe4s8b9fl), ...
 
 ----
 
@@ -234,7 +240,9 @@ Ethische Bedenken
 
 #### Zusammentragen von Kriterien
 
-* gemeinsames Arbeiten in ein Framapad
+* gemeinsames Arbeiten 
+
+[Framapad *IV Kriterien Anwender\_innen*](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq)
 
 ----
 
