@@ -186,10 +186,28 @@ Wer ist DIE Anwender\_in ?
 
 * Fachliche Domäne
 * fachliches Kompetenzniveau zum Ausführen der Aufgabe
-* Nationalität und Muttersprache
+* Sprachkompetenzen
 * typische Arbeitsplatzausstattung
 
-[QGIS](); [mirador Viewer](); [click-share]()
+----
+
+Niveau fachlicher Kompetenz - Voyant Tools
+
+* Vorgehensweise der Tools werden ausführlich erklärt [Voyant Tools Guise - Tools](https://voyant-tools.org/docs/#!/guide/tools)
+* Tool [Kartieren nach Zahlen](https://digilab-hait.de/colormap/page/seiten/welt/countryborders.html) zur Erstellung thematischer Karten setzt demonstrativ niedrigschwellig an
+ 
+----
+
+Sprachen - Beispiel QGIS
+
+* Einstieg in 36 Sprachen
+* die Übersetzungen des Benutzerhandbuchs durch die Community werden mit einem Workflow  unterstützt [QGIS Handbuch - Hinweise zur Übersetzung](https://docs.qgis.org/3.22/de/docs/documentation_guidelines/do_translations.html#translate-a-file)
+
+----
+
+Arbeitsplatzausstattung - Beispiel IPad Archäologie
+
+* Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden; [Bericht vom 27.02.2022 apple.com-Newsroom](https://www.apple.com/newsroom/2022/09/ipad-pro-is-revolutionizing-how-archaeologists-preserve-the-history-of-pompeii/)
 
 ----
 
@@ -199,7 +217,15 @@ Was sind typische Belastungspunkte ?
 * Arbeit wird meist in Gruppen (ortsverteilt?) durchgeführt
 * Arbeit erfordert stark redundante Tätigkeiten; Eingabe von Text
 
-[Openrefine](https://openrefine.org), [Recogito](https://recogito.pelagios.org), [Backend Drupal]()
+----
+
+Isoliertes Arbeiten / Gruppenarbeit
+
+* individuelles Arbeiten mit [Openrefine](https://openrefine.org)
+* ortsverteiltes syn- und diachrones Arbeiten mit [Recogito](https://recogito.pelagios.org)
+
+---
+, [Backend Drupal]()
 
 ----
 
