@@ -182,85 +182,93 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-Wer ist DIE Anwender\_in ?
+#### Wer ist DIE Anwender\_in ?
 
-* Fachliche Domäne
-* fachliches Kompetenzniveau zum Ausführen der Aufgabe
-* Sprachkompetenzen
-* typische Arbeitsplatzausstattung
+1. fachliche Domäne
+2. fachliches Kompetenzniveau zum Ausführen der Aufgabe
+3. Sprachkompetenzen
+4. typische Arbeitsplatzausstattung
 
 ----
 
-Niveau fachlicher Kompetenz - Voyant Tools
+*zu 2* Niveau fachlicher Kompetenz - Voyant Tools
 
 * Vorgehensweise der Tools werden ausführlich erklärt [Voyant Tools Guise - Tools](https://voyant-tools.org/docs/#!/guide/tools)
 * Tool [Kartieren nach Zahlen](https://digilab-hait.de/colormap/page/seiten/welt/countryborders.html) zur Erstellung thematischer Karten setzt demonstrativ niedrigschwellig an
  
 ----
 
-Sprachen - Beispiel QGIS
+*zu 3* Sprachen - Beispiel QGIS
 
 * Einstieg in 36 Sprachen
 * die Übersetzungen des Benutzerhandbuchs durch die Community werden mit einem Workflow  unterstützt [QGIS Handbuch - Hinweise zur Übersetzung](https://docs.qgis.org/3.22/de/docs/documentation_guidelines/do_translations.html#translate-a-file)
 
 ----
 
-Arbeitsplatzausstattung - Beispiel IPad Archäologie
+*zu 4* Arbeitsplatzausstattung - Beispiel IPad Archäologie
 
 * Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden; [Bericht vom 27.02.2022 apple.com-Newsroom](https://www.apple.com/newsroom/2022/09/ipad-pro-is-revolutionizing-how-archaeologists-preserve-the-history-of-pompeii/)
 
 ----
 
-Was sind typische Belastungspunkte ?
+#### Was sind typische Belastungspunkte ?
 
-* Arbeit wird meistens isoliert durchgeführt
-* Arbeit wird meist in Gruppen (ortsverteilt?) durchgeführt
-* Arbeit erfordert stark redundante Tätigkeiten; Eingabe von Text
+1. Arbeit wird meistens isoliert durchgeführt
+2. Arbeit wird meist in Gruppen (ortsverteilt?) durchgeführt
+3. Arbeit erfordert stark redundante Tätigkeiten; Eingabe von Text
 
 ----
 
-Isoliertes Arbeiten / Gruppenarbeit
+*zu 1 und 2* Isoliertes Arbeiten / Gruppenarbeit
 
 * individuelles Arbeiten mit [Openrefine](https://openrefine.org)
 * ortsverteiltes syn- und diachrones Arbeiten mit [Recogito](https://recogito.pelagios.org)
 
 ---
-, [Backend Drupal]()
+
+#### Welche Tools sind typisch für die Community?
+
+1. Commandline-Tool oder GUI
+2. Office-Pakete oder LaTeX
+3. Kennzahlen oder Einzelfallbetrachtung
+4. JSON oder PDF
 
 ----
 
-Welche Tools sind typisch für die Community?
+#### Internationale Teams als Szenario?
 
-* Commandline-Tool oder GUI
-* Office-Pakete oder LaTeX
-* Kennzahlen oder Einzelfallbetrachtung
-* JSON oder PDF
-
-----
-
-Internationale Teams?
-
-* gesetzliche Vorgaben im jeweiligen Land
-* kulturelles Gepäck in den Sprachen und Terminologien ("master branch")
-* CARE
+1. gesetzliche Vorgaben und Firmenpolitik
+2. kulturelles Gepäck in den Sprachen und Terminologien
+3. Datenschutz und Schutz der Identität von Teammitgliedern
+4. [CARE-Prinzipien](https://zenodo.org/record/5995059#.ZAti3OuZPRZ)
 
 ----
 
-Datenschutz?
+*zu 1* Gesetzliche Vorgaben 
 
-* Tracking von Aktivitäten
+* Zoom-Dienste aktuell nicht in der Ukraine, dem Iran und weiteren Ländern nutzbar ([Einschränkungen nach Webseite von Zoom](https://support.zoom.us/hc/de/articles/203806119-L%C3%A4nder-oder-Regionen-mit-Einschr%C3%A4nkungen))
+
+----
+
+*zu 2* Kulturelles Gepäck in den Sprachen und Terminologien 
+
+* 2020 Wechsel vom *master-* zum *main-*branch bei Github (mehr: [E. Landau auf Wired, 6.7. 2020](https://www.wired.com/story/tech-confronts-use-labels-master-slave/))
+
+----
+
+*zu 3* Datenschutz?
+
+* Tracking von Aktivitäten (Github)
 * Nutzung nur nach Freigabe verschiedener Zugriffe möglich?
 * Wirklich private Arbeitsumgebung?
 
-[Github](); [Google doc](); [Miroboard]()
-
 ----
 
-Ethische Bedenken
+*zu 2 und 4* Ethische Bedenken
 
-* Verwendung von Packages, die aus Kontexten von staatl. Überwachung und Militär entwickelt wurden
-* Verwendung von Modellen, die von Clickworker\_innen trainiert wurden
-* Verwendung von Modellen, die mit illegal bezogenen Daten trainiert wurden
+* Packages, die im Kontext staatl. Überwachung und Militär entwickelt wurden (z.B. ESRI)
+* Modelle, die von Clickworker\_innen trainiert wurden ([N. Simon on Mantra Labs 25.07.2019](https://www.mantralabsglobal.com/blog/ai-in-africa-artificial-intelligence-africa/))?
+* Modelle, die mit Daten von nicht informierten Nutzer\_innen trainiert wurden 
 
 ----
 
