@@ -117,10 +117,10 @@ Wozu soll Pixplot eingesetzt werden?
 * aus der Archäoinformatik und DH heraus entwickelt [Literatur]()
 * Konzept: Integration von Linked Open Data in QGIS
 * Umsetzung: QGIS Plugin mit folgenden Funktionen:
- -  Querying, Navigation und Anzeige von (Geo-)RDF Daten in SPARQL Endpoints und Files
- -  Einfache Erkennung und Integration von QGIS Layern in Linked Open Data
- -  Konvertierung, Validierung und Dokumentation von RDF Datensätzen
- -  Anreicherung und Interlinking von Geodatensätzen (experimentell)
+  *  Querying, Navigation und Anzeige von (Geo-)RDF Daten in SPARQL Endpoints und Files
+  *  Einfache Erkennung und Integration von QGIS Layern in Linked Open Data
+  *  Konvertierung, Validierung und Dokumentation von RDF Datensätzen
+  *  Anreicherung und Interlinking von Geodatensätzen (experimentell)
 
 ----
 
@@ -293,4 +293,29 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 ---
 
 ## IV Perspektive Entwickler\_innen
+
+----
+
+#### Intention des Autors
+
+* Warum hat der Autor die Software entwickelt?
+  * Um ein Problem besser zu verstehen?
+  * Ein Hobbdyprojekt?
+  * Steht finanzielles Interesse hinter dem Projekt?
+  * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)
+  * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
+
+[36C3: Fefe: Das nützlich-unbedenklich Spektrum](https://youtu.be/31xA9p3pYE4)
+
+----
+
+#### Kompetenz des Autors
+
+* Wer ist der Autor?
+  * Professioneller Softwareentwickler/Informatiker?
+  * Skriptkiddy?
+  * Student? Wenn ja aus welcher Fachwissenschaft?
+  * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
+
+----
 
