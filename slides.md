@@ -304,6 +304,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Steht finanzielles Interesse hinter dem Projekt?
   * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
   * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
+* Passiert auch:
   * "Ich bin gar nicht der Autor. Ich sollte das hier nur auf Github stellen."
   * "Der Autor kümmert sich nicht mehr/ ist tot / arbeitet hier nicht mehr"
 
