@@ -115,16 +115,20 @@ Wozu soll Pixplot eingesetzt werden?
 
 * Kultur- und Geisteswissenschaften, die mit Raumbezug arbeiten
 * aus der Archäoinformatik und DH heraus entwickelt [Literatur]()
-* Konzept: 
-* Umsetzung: 
+* Konzept: Integration von Linked Open Data in QGIS
+* Umsetzung: QGIS Plugin mit folgenden Funktionen:
+ -  Querying, Navigation und Anzeige von (Geo-)RDF Daten in SPARQL Endpoints und Files
+ -  Einfache Erkennung und Integration von QGIS Layern in Linked Open Data
+ -  Konvertierung, Validierung und Dokumentation von RDF Datensätzen
+ -  Anreicherung und Interlinking von Geodatensätzen (experimentell)
 
 ----
 
 Wozu soll das Plugin eingesetzt werden?
 
-* kkkk
-* ööööö
-* *LOUD*
+* Nutzung von Linked Open Data für GIS und DH Fragestellungen
+* Generierung und Vorbereitung von zu hostenden Linked Open Data Datensets
+* Bearbeitung von Linked Open Data Ressourcen in Kombination mit nicht semantischen Ressourcen
 
 ----
 
