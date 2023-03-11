@@ -300,10 +300,12 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 * Warum hat der Autor die Software entwickelt?
   * Um ein Problem besser zu verstehen?
-  * Ein Hobbdyprojekt?
+  * Ein Hobbyprojekt?
   * Steht finanzielles Interesse hinter dem Projekt?
-  * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)
+  * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
   * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
+  * "Ich bin gar nicht der Autor. Ich sollte das hier nur auf Github stellen."
+  * "Der Autor kümmert sich nicht mehr/ ist tot / arbeitet hier nicht mehr"
 
 [36C3: Fefe: Das nützlich-unbedenklich Spektrum](https://youtu.be/31xA9p3pYE4)
 
