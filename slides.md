@@ -319,6 +319,24 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Skriptkiddy?
   * Student? Wenn ja aus welcher Fachwissenschaft?
   * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
+  * Wie lange ist der Autor auf Github/Gitlab?
+  * Wir aktiv ist er in der jewiligen Programmiersprache?
+  * Hat der Autor Profilbadges von Webseiten wie Codersrank o.ä.?
+
+[Codersrank](https://codersrank.io)
+
+----
+
+#### Das Repository
+
+* Einige Parameter des Repositories:
+  * Gibt es eine README?
+  * Wann wurde das Repository zuletzt upgedatet?
+  * Ist eine Lizenz angegeben?
+  * Gibt es bereits (regelmäßige Releases) mit Changelogs?
+  * Gibt es Continuous Integration Tasks zur Absicherung der Funktionalität/Codequalität?
+  * Verweist das Repository klar auf die wichtigsten Komponenten der Software?
+  * Benennt das Repository den Benutzerkreis und die Funktion der Software?
 
 ----
 
