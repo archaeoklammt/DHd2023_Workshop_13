@@ -325,6 +325,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Student? Wenn ja aus welcher Fachwissenschaft?
   * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
   * Wie lange ist der Autor auf Github/Gitlab?
+  
 ----
 
 #### Kompetenz des Autors II
@@ -343,6 +344,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wann wurde das Repository zuletzt upgedatet?
   * Ist eine Lizenz angegeben?
   * Gibt es bereits (regelmäßige Releases) mit Changelogs?
+  
 ----
 
 #### Das Repository II
