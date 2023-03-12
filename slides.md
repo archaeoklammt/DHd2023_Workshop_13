@@ -374,4 +374,19 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
 ----
   
+#### Die Software
 
+* Welche Aufgabe(n) soll die Software erfüllen?
+  * Was ist der Input und der Output der Software?
+  * Gibt es Beispiele und Beispieldaten?
+  * Wie kann die Software gebaut werden?
+  * Gibt es Nachweise für das korrekte Bauen der Software (CI)?
+----
+
+#### Codequalität
+
+* Codequalität der Software
+  * Gibt es einen einheitlichen Codingstyle?
+  * Ist der Aufbau der Software modular?
+
+----
