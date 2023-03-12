@@ -374,6 +374,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Gibt es einen Contribution Guide wie Pull Requests aussehen sollen?
   * Wie reagiert der Entwickler auf Anmerkungen/Issues?
   * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
+
 ----
   
 #### Die Software
@@ -383,6 +384,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Gibt es Beispiele und Beispieldaten?
   * Wie kann die Software gebaut werden?
   * Gibt es Nachweise für das korrekte Bauen der Software (CI)?
+  
 ----
 
 #### Codequalität
@@ -390,5 +392,22 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 * Codequalität der Software
   * Gibt es einen einheitlichen Codingstyle?
   * Ist der Aufbau der Software modular?
+  * Werden Libraries oder standardisierte Metriken für die Codequalität angewendet?
+
+----
+
+#### Software Tests
+
+* Gibt es ein Testframework für die Funktionalität der Software?
+  * Gibt es einen einheitlichen Codingstyle?
+  * Ist der Aufbau der Software modular?
+
+----
+
+#### Performanz der Software
+
+* Wie gut kann die Software ihre Aufgabe erfüllen?
+  * Gibt es Benchmarks zur Evaluation der Software?
+  * Vergleicht sich die Software mit anderen ähnlichen Produkten?
 
 ----
