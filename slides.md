@@ -304,6 +304,11 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Steht finanzielles Interesse hinter dem Projekt?
   * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
   * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
+
+----
+
+#### Intention des Autors II
+
 * Passiert auch:
   * "Ich bin gar nicht der Autor. Ich sollte das hier nur auf Github stellen."
   * "Der Autor kümmert sich nicht mehr/ ist tot / arbeitet hier nicht mehr"
@@ -320,7 +325,11 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Student? Wenn ja aus welcher Fachwissenschaft?
   * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
   * Wie lange ist der Autor auf Github/Gitlab?
-  * Wir aktiv ist er in der jewiligen Programmiersprache?
+----
+
+#### Kompetenz des Autors II
+
+  * Wie aktiv ist er in der jewiligen Programmiersprache?
   * Hat der Autor Profilbadges von Webseiten wie Codersrank o.ä.?
 
 [Codersrank](https://codersrank.io)
@@ -334,9 +343,35 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wann wurde das Repository zuletzt upgedatet?
   * Ist eine Lizenz angegeben?
   * Gibt es bereits (regelmäßige Releases) mit Changelogs?
+----
+
+#### Das Repository II
+
   * Gibt es Continuous Integration Tasks zur Absicherung der Funktionalität/Codequalität?
   * Verweist das Repository klar auf die wichtigsten Komponenten der Software?
   * Benennt das Repository den Benutzerkreis und die Funktion der Software?
+  * Wie lange gibt es das Repository bereits?
+  * Wie ist der Contributionverlauf über diese Zeitspanne?
 
 ----
+
+#### Softwaredokumentation
+
+* Wie wird die Software dokumentiert?
+  * Gibt es eine Quellcodedokumentation in HTML oder als PDF?
+  * Gibt es einen Guide für Entwickler?
+  * Gibt es Tutorials für die Nachnutzung bestimmter Teile der Software?
+  * Wie wird die Softwaredokumentation aktualisiert?
+  
+----
+
+#### Contribution
+
+* Wie können Entwickler zur Software beitragen?
+  * Werden Pull Requests vom Entwickler akzeptiert/bearbeitet?
+  * Gibt es einen Contribution Guide wie Pull Requests aussehen sollen?
+  * Wie reagiert der Entwickler auf Anmerkungen/Issues?
+  * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
+----
+  
 
