@@ -175,8 +175,9 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 *Arbeiten im jeweiligen Framapad*
 * kurzer Abgleich
-
----
+* *Wichtiger Aspekt:* Welche Version der Software wird eigentlich getestet?
+   * Wie stelle ich sicher, dass die Leser darüber informiert sind und die Version nachvollziehen können?
+----
 
 ## III Perspektive Anwender\_innen
 
@@ -296,6 +297,10 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
+### *Was macht eine attraktive Software für einen Entwickler aus?*
+
+----
+
 #### Intention des Autors
 
 * Warum hat der Autor die Software entwickelt?
@@ -401,6 +406,8 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 * Gibt es ein Testframework für die Funktionalität der Software?
   * Gibt es einen einheitlichen Codingstyle?
   * Ist der Aufbau der Software modular?
+  * Wie ist die Testabdeckung der Software?
+  * Gibt es Usability Tests oder nur Unit Tests?
 
 ----
 
@@ -409,5 +416,6 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 * Wie gut kann die Software ihre Aufgabe erfüllen?
   * Gibt es Benchmarks zur Evaluation der Software?
   * Vergleicht sich die Software mit anderen ähnlichen Produkten?
+  * Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
 
 ----
