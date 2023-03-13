@@ -427,7 +427,7 @@ Beispiele für Codequalität (sprachspezifisch):
 * KISS (Keep It Simple Stupid)
 * Nutzung von Design Patterns 
 
-(Coding Style (Wikipedia))[https://en.wikipedia.org/wiki/Coding_best_practices]
+[Coding Style (Wikipedia)](https://en.wikipedia.org/wiki/Coding_best_practices)
 
 ----
 
