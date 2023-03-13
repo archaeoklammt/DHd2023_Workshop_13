@@ -374,7 +374,7 @@ Wie wird die Software dokumentiert?
 * Gibt es einen Guide für Entwickler?
 * Gibt es Tutorials für die Nachnutzung bestimmter Teile der Software?
 * Wie wird die Softwaredokumentation aktualisiert?
-  
+
 ----
 
 #### Entwicklerdokumentation
@@ -385,7 +385,7 @@ Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
 * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
 * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
 * Ist die Entwicklerdokumentation up-to-date?
-  
+
 ----
 
 #### Contribution
@@ -405,7 +405,7 @@ Welche Aufgabe(n) soll die Software erfüllen?
 * Gibt es Beispiele und Beispieldaten?
 * Wie kann die Software gebaut werden?
 * Gibt es Nachweise für das korrekte Bauen der Software (CI)?
-  
+
 ----
 
 #### Codequalität
