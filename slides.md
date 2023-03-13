@@ -291,7 +291,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 * kurzer Abgleich
 
----
+----
 
 ## IV Perspektive Entwickler\_innen
 
