@@ -395,7 +395,7 @@ Wie können Entwickler zur Software beitragen?
 * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
 
 ----
-  
+
 #### Die Software
 
 Welche Aufgabe(n) soll die Software erfüllen?
