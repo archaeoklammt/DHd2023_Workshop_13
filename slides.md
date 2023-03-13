@@ -384,6 +384,7 @@ Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
 * Für welchen spezifischen Entwicklerusecase wurde die Software entwickelt?
 * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
 * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
+* Ist die Entwicklerdokumentation up-to-date?
   
 ----
 
