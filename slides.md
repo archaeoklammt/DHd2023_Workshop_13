@@ -328,7 +328,7 @@ Wer ist der Autor?
 * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
 * Wie lange ist der Autor auf Github/Gitlab?
 
---
+----
 
 #### Kompetenz des Autors II
 
@@ -434,6 +434,7 @@ Gibt es ein Testframework für die Funktionalität der Software?
 * Gibt es Usability Tests oder nur Unit Tests?
 
 [Beispiel: JUnit](https://de.wikipedia.org/wiki/JUnit)
+
 ----
 
 #### Korrektheit der Software
@@ -446,6 +447,7 @@ Allgemeiner:
 * Sind die Outputs der Software valide? (Valides JSON, Valides XML im richtigen Schema?)
 
 [Beispiel: GeoSPARQL Compliance Benchmark](https://www.mdpi.com/2220-9964/10/7/487)
+
 ----
 
 #### Performanz der Software
@@ -483,3 +485,31 @@ Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://m
 * kurzer Abgleich
 
 ---
+
+## V Wie geht es weiter?
+
+----
+
+#### Ausarbeitungen der Rezensionen als Publikationen
+
+* Wer möchte?
+* Wo publizieren?
+* Wie in Kontakt bleiben?
+
+----
+
+#### Revision der Kritieren für Sofwarerezension
+
+* Neue Kriterien für den Katalog?
+* Was hat Ihnen im Workshop gefehlt?
+* Ist genug Stoff für eine Überarbeitung des Papiers vorhanden?
+
+----
+
+#### Ihr Feedback zum Workshop
+
+* Was war gut? Was war schlecht?
+* Was könnte man besser machen?
+* Wie sieht Ihre Motivation aus neue Software zu reviewen?
+
+----
