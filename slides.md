@@ -373,6 +373,16 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   
 ----
 
+#### Entwicklerdokumentation
+
+* Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
+  * Ist der Build Prozess nachvollziehbar beschrieben?
+  * Für welchen spezifischen Entwicklerusecase wurde die Software entwickelt?
+  * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
+  * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
+  
+----
+
 #### Contribution
 
 * Wie können Entwickler zur Software beitragen?
