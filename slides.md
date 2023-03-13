@@ -6,7 +6,7 @@
 |:---|---|
 | date | 14-03-2023 |
 | authors | Timo Homburg, Anne Klammt, Florian Thiery |
-| license | CC 0.0 |
+| license | CC BY 4.0 |
 
 ---
 
