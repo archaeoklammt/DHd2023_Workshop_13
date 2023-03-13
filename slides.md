@@ -440,12 +440,24 @@ Gibt es ein Testframework für die Funktionalität der Software?
 
 ----
 
+#### Korrektheit der Software
+
+Versucht die Software einen oder mehrere Standards zu implementieren?
+* Gibt es Compliance Benchmarks zum Test der Software Kompatibilität?
+* Hat der Entwickler seine Software damit getestet?
+
+Allgemeiner:
+* Sind die Outputs der Software valide? (Valides JSON, Valides XML im richtigen Schema?)
+
+----
+
 #### Performanz der Software
 
 Wie gut kann die Software ihre Aufgabe erfüllen?
 * Gibt es Benchmarks zur Evaluation der Software?
 * Vergleicht sich die Software mit anderen ähnlichen Produkten?
 * Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
+* Sind die Testdaten für solch einen Benchmark verfügbar oder wäre es an den Rezensenten ein solches Datenset zu definieren?
 
 ----
 
