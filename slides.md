@@ -296,11 +296,11 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ## IV Perspektive Entwickler\_innen
 
-----
+--
 
 ### *Was macht eine attraktive Software für einen Entwickler aus?*
 
-----
+--
 
 #### Intention des Autors
 
@@ -311,7 +311,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
   * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
 
-----
+--
 
 #### Intention des Autors II
 
@@ -321,7 +321,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 [36C3: Fefe: Das nützlich-unbedenklich Spektrum](https://youtu.be/31xA9p3pYE4)
 
-----
+--
 
 #### Kompetenz des Autors
 
@@ -331,8 +331,8 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Student? Wenn ja aus welcher Fachwissenschaft?
   * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
   * Wie lange ist der Autor auf Github/Gitlab?
-  
-----
+
+--
 
 #### Kompetenz des Autors II
 
@@ -341,7 +341,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 [Codersrank](https://codersrank.io)
 
-----
+--
 
 #### Das Repository
 
@@ -350,8 +350,9 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wann wurde das Repository zuletzt upgedatet?
   * Ist eine Lizenz angegeben?
   * Gibt es bereits (regelmäßige Releases) mit Changelogs?
-  
-----
+
+
+--
 
 #### Das Repository II
 
@@ -361,7 +362,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wie lange gibt es das Repository bereits?
   * Wie ist der Contributionverlauf über diese Zeitspanne?
 
-----
+--
 
 #### Softwaredokumentation
 
@@ -371,7 +372,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Gibt es Tutorials für die Nachnutzung bestimmter Teile der Software?
   * Wie wird die Softwaredokumentation aktualisiert?
   
-----
+--
 
 #### Entwicklerdokumentation
 
@@ -381,7 +382,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
   * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
   
-----
+--
 
 #### Contribution
 
@@ -391,7 +392,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wie reagiert der Entwickler auf Anmerkungen/Issues?
   * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
 
-----
+--
   
 #### Die Software
 
@@ -401,7 +402,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wie kann die Software gebaut werden?
   * Gibt es Nachweise für das korrekte Bauen der Software (CI)?
   
-----
+--
 
 #### Codequalität
 
@@ -410,7 +411,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Ist der Aufbau der Software modular?
   * Werden Libraries oder standardisierte Metriken für die Codequalität angewendet?
 
-----
+--
 
 #### Software Tests
 
@@ -420,7 +421,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wie ist die Testabdeckung der Software?
   * Gibt es Usability Tests oder nur Unit Tests?
 
-----
+--
 
 #### Performanz der Software
 
@@ -429,4 +430,20 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Vergleicht sich die Software mit anderen ähnlichen Produkten?
   * Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
 
-----
+--
+
+#### Zusammentragen von Kriterien
+
+* gemeinsames Arbeiten 
+
+[Framapad *IV Kriterien Anwender\_innen*](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq)
+
+--
+
+#### Beurteilung der jeweiligen Software aus Entwicklerperspektive
+
+*Arbeiten im jeweiligen Framapad*
+
+* kurzer Abgleich
+
+---
