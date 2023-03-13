@@ -14,32 +14,17 @@
 
 ---
 
-#### Wer sind wir
+#### Wer sind wir ?
 
-* Name, Arbeitsort und Farbpunkt auf Miroboard setzen
-
-|  |  |
-|:---|---|
-| Farbe | Bedeutung |
-| blau | überwiegend Anwender\*in |
-| gelb | überwiegend Entwickler\*in |
-| weiß | ich will/kann mich nicht entscheiden |
+* [Framacalc](https://lite.framacalc.org/g591qh1qc8-9zt0)
 
 ----
 
-#### Selbsteinschätzung - Kompetenzen
-
-* Miroboard
-
-<!-- auf dem Miroboard sind Fragen angegeben, die angekreuzt werden können, bleibt aber anonym --->
-
-----
-
-### Warum Software rezensieren ?
+### Warum eigentlich Software rezensieren ?
 
 * Gemeinsames Sammeln und Gruppieren
 
-[Framapad *II Warum Software rezensieren?*](https://mypads2.framapad.org/p/warum-software-rezensieren-rs4rxb9s8)
+[Framapad II *Warum Software rezensieren?*](https://mypads2.framapad.org/p/warum-software-rezensieren-rs4rxb9s8)
 
 ----
 
@@ -98,7 +83,7 @@
 
 * Kunstgeschichte, Bildwissenschaften
 * aus den DH heraus entwickelt
-* Konzept: Frederic Kaplan, Isabella di Leonardo und Benoit Seguin 2016 [Literatur](###)
+* Konzept: Frederic Kaplan, Isabella di Leonardo und Benoit Seguin 2016; [Literatur](https://dh-abstracts.library.virginia.edu/works/2806)
 * Umsetzung DH Lab Yale
 
 ----
@@ -107,7 +92,7 @@ Wozu soll Pixplot eingesetzt werden?
 
 * Clustern von sehr großen Bildsammlungen auf Grundlage von Bildähnlichkeit
 * Überblick verschaffen zu den Motiven und Themen in großen Sammlungen
-* *Distant Viewing*
+* *#Distant Viewing*
 
 ----
 
@@ -116,6 +101,9 @@ Wozu soll Pixplot eingesetzt werden?
 * Kultur- und Geisteswissenschaften, die mit Raumbezug arbeiten
 * aus der Archäoinformatik und DH heraus entwickelt [Literatur]()
 * Konzept: Integration von Linked Open Data in QGIS
+
+----
+
 * Umsetzung: QGIS Plugin mit folgenden Funktionen:
   *  Querying, Navigation und Anzeige von (Geo-)RDF Daten in SPARQL Endpoints und Files
   *  Einfache Erkennung und Integration von QGIS Layern in Linked Open Data
@@ -145,7 +133,7 @@ Wozu soll Wax eingesetzt werden?
 * ermöglicht eine statische Webseite aufzubauen
 * keine Datenbank im Hintergrund
 * soll Einstieg in Umsetzung von DH-Projekten bieten
-* *minimal computing*
+* *#minimal computing*
 
 ----
 
@@ -153,7 +141,7 @@ Wozu soll Wax eingesetzt werden?
 
 * Verständnisfragen?
 * Haben wir die Einsatzbereiche erfasst?
-* Was ist beim Ansehen der Software als erstes aufgefallen?
+* Was ist bei der ersten Begegnung mit der Software als erstes aufgefallen?
 
 ---
 
@@ -184,11 +172,11 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-### *Den Wald vor lauter Bäumen nicht sehen - Schwerpunkte in der Beschreibung aus Anwender_innensicht setzen*
+### *Den Wald vor lauter Bäumen nicht sehen - Schwerpunkte in der Beschreibung aus Anwender\*innensicht setzen*
 
 ----
 
-#### Wer ist DIE Anwender\_in ?
+#### Wer ist DIE Anwender\*in ?
 
 1. fachliche Domäne
 2. fachliches Kompetenzniveau zum Ausführen der Aufgabe
@@ -197,23 +185,27 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-*zu 2* Niveau fachlicher Kompetenz - Voyant Tools
+##### zu Niveau fachlicher Kompetenz - Beispiel Voyant Tools
 
 * Vorgehensweise der Tools werden ausführlich erklärt [Voyant Tools Guise - Tools](https://voyant-tools.org/docs/#!/guide/tools)
 * Tool [Kartieren nach Zahlen](https://digilab-hait.de/colormap/page/seiten/welt/countryborders.html) zur Erstellung thematischer Karten setzt demonstrativ niedrigschwellig an
  
 ----
 
-*zu 3* Sprachen - Beispiel QGIS
+##### zu Sprachen - Beispiel QGIS
 
 * Einstieg in 36 Sprachen
-* die Übersetzungen des Benutzerhandbuchs durch die Community werden mit einem Workflow  unterstützt [QGIS Handbuch - Hinweise zur Übersetzung](https://docs.qgis.org/3.22/de/docs/documentation_guidelines/do_translations.html#translate-a-file)
+* die Übersetzungen des Benutzerhandbuchs durch die *community* werden durch einen eigenen Ablauf unterstützt 
+
+[QGIS Handbuch - Hinweise zur Übersetzung](https://docs.qgis.org/3.22/de/docs/documentation_guidelines/do_translations.html#translate-a-file)
 
 ----
 
-*zu 4* Arbeitsplatzausstattung - Beispiel IPad Archäologie
+##### zu Arbeitsplatzausstattung - Beispiel IPad Archäologie
 
-* Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden; [Bericht vom 27.02.2022 apple.com-Newsroom](https://www.apple.com/newsroom/2022/09/ipad-pro-is-revolutionizing-how-archaeologists-preserve-the-history-of-pompeii/)
+* Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden
+
+[Bericht vom 27.02.2022 apple.com-Newsroom](https://www.apple.com/newsroom/2022/09/ipad-pro-is-revolutionizing-how-archaeologists-preserve-the-history-of-pompeii/)
 
 ----
 
@@ -221,23 +213,29 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 1. Arbeit wird meistens isoliert durchgeführt
 2. Arbeit wird meist in Gruppen (ortsverteilt?) durchgeführt
-3. Arbeit erfordert stark redundante Tätigkeiten; Eingabe von Text
+3. Arbeit erfordert redundante Tätigkeiten; Eingabe von viel Text
 
 ----
 
-*zu 1 und 2* Isoliertes Arbeiten / Gruppenarbeit
+#### zu Isoliertes Arbeiten / Gruppenarbeit
 
 * individuelles Arbeiten mit [Openrefine](https://openrefine.org)
 * ortsverteiltes syn- und diachrones Arbeiten mit [Recogito](https://recogito.pelagios.org)
 
+----
+
+#### zu Wiederkehrend Texteingaben
+
+* automatische Rechtschreibprüfung für Dateneingabe ([Website HAIT e.V.](https://hait.tu-dresden.de/ext/lehre/lehre-veranstaltungsinformation-6264/))
+
 ---
 
-#### Welche Tools sind typisch für die Community?
+#### Welche Gewohnheiten hat die *community*?
 
-1. Commandline-Tool oder GUI
+1. Command-line Tool oder GUI
 2. Office-Pakete oder LaTeX
 3. Kennzahlen oder Einzelfallbetrachtung
-4. JSON oder PDF
+4. JSON oder CSV
 
 ----
 
@@ -250,19 +248,19 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-*zu 1* Gesetzliche Vorgaben 
+##### zu gesetzlichen Vorgaben 
 
 * Zoom-Dienste aktuell nicht in der Ukraine, dem Iran und weiteren Ländern nutzbar ([Einschränkungen nach Webseite von Zoom](https://support.zoom.us/hc/de/articles/203806119-L%C3%A4nder-oder-Regionen-mit-Einschr%C3%A4nkungen))
 
 ----
 
-*zu 2* Kulturelles Gepäck in den Sprachen und Terminologien 
+##### zu "kulturellem" Gepäck in den Sprachen und Terminologien 
 
 * 2020 Wechsel vom *master-* zum *main-*branch bei Github (mehr: [E. Landau auf Wired, 6.7. 2020](https://www.wired.com/story/tech-confronts-use-labels-master-slave/))
 
 ----
 
-*zu 3* Datenschutz?
+##### zu Fragen des Datenschutz
 
 * Tracking von Aktivitäten (Github)
 * Nutzung nur nach Freigabe verschiedener Zugriffe möglich?
@@ -270,11 +268,11 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-*zu 2 und 4* Ethische Bedenken
+##### zu ethischen Bedenken
 
 * Packages, die im Kontext staatl. Überwachung und Militär entwickelt wurden (z.B. ESRI)
 * Modelle, die von Clickworker\_innen trainiert wurden ([N. Simon on Mantra Labs 25.07.2019](https://www.mantralabsglobal.com/blog/ai-in-africa-artificial-intelligence-africa/))?
-* Modelle, die mit Daten von nicht informierten Nutzer\_innen trainiert wurden 
+* Modelle, die mit Daten ohne Wissen der Nutzer\*innen trainiert wurden 
 
 ----
 
@@ -282,7 +280,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 * gemeinsames Arbeiten 
 
-[Framapad *IV Kriterien Anwender\_innen*](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq)
+Framapads zu Kriterien Anwender\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)
 
 ----
 
