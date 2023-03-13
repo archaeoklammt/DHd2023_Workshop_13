@@ -433,6 +433,7 @@ Gibt es ein Testframework für die Funktionalität der Software?
 * Wie ist die Testabdeckung der Software?
 * Gibt es Usability Tests oder nur Unit Tests?
 
+[Beispiel: JUnit](https://de.wikipedia.org/wiki/JUnit)
 ----
 
 #### Korrektheit der Software
@@ -444,6 +445,7 @@ Versucht die Software einen oder mehrere Standards zu implementieren?
 Allgemeiner:
 * Sind die Outputs der Software valide? (Valides JSON, Valides XML im richtigen Schema?)
 
+[Beispiel: GeoSPARQL Compliance Benchmark](https://www.mdpi.com/2220-9964/10/7/487)
 ----
 
 #### Performanz der Software
@@ -454,7 +456,7 @@ Wie gut kann die Software ihre Aufgabe erfüllen?
 * Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
 * Sind die Testdaten für solch einen Benchmark verfügbar oder wäre es an den Rezensenten ein solches Datenset zu definieren?
 
-----
+[Beispiel: Performance Benchmark](https://www.mdpi.com/2220-9964/8/7/310)
 
 #### Software Community
 
