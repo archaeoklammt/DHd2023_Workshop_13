@@ -296,41 +296,43 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ## IV Perspektive Entwickler\_innen
 
---
+----
 
 ### *Was macht eine attraktive Software für einen Entwickler aus?*
 
---
+----
 
 #### Intention des Autors
 
-* Warum hat der Autor die Software entwickelt?
-  * Um ein Problem besser zu verstehen?
-  * Ein Hobbyprojekt?
-  * Steht finanzielles Interesse hinter dem Projekt?
-  * Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
-  * Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
+Warum hat der Autor die Software entwickelt?
+* Um ein Problem besser zu verstehen?
+* Ein Hobbyprojekt?
+* Steht finanzielles Interesse hinter dem Projekt?
+* Forschungssoftware verbunden mit einer Publikation (z.B. Masterarbeit)?
+* Neue Features: Warum war der Autor mit anderen Implementierungen wmgl. unzufrieden?
 
---
+----
 
 #### Intention des Autors II
 
-* Passiert auch:
-  * "Ich bin gar nicht der Autor. Ich sollte das hier nur auf Github stellen."
-  * "Der Autor kümmert sich nicht mehr/ ist tot / arbeitet hier nicht mehr"
+Passiert auch:
+* "Ich bin gar nicht der Autor. Ich sollte das hier nur auf Github stellen."
+* "Der Autor kümmert sich nicht mehr/ ist tot / arbeitet hier nicht mehr"
+* "Wir wissen gar nicht mehr wer das programmiert hat. Lag hier auf der Festplatte"
+* "Wir wissen gar nicht wo dieser Quellcode herkommt aber wir haben ihn mal veröffentlicht"
 
 [36C3: Fefe: Das nützlich-unbedenklich Spektrum](https://youtu.be/31xA9p3pYE4)
 
---
+----
 
 #### Kompetenz des Autors
 
-* Wer ist der Autor?
-  * Professioneller Softwareentwickler/Informatiker?
-  * Skriptkiddy?
-  * Student? Wenn ja aus welcher Fachwissenschaft?
-  * Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
-  * Wie lange ist der Autor auf Github/Gitlab?
+Wer ist der Autor?
+* Professioneller Softwareentwickler/Informatiker?
+* Skriptkiddy?
+* Student? Wenn ja aus welcher Fachwissenschaft?
+* Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
+* Wie lange ist der Autor auf Github/Gitlab?
 
 --
 
@@ -338,21 +340,22 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
   * Wie aktiv ist er in der jewiligen Programmiersprache?
   * Hat der Autor Profilbadges von Webseiten wie Codersrank o.ä.?
+  * Ist der Autor schon mir Publikationen zu dieser Software in Erscheinung getreten?
 
 [Codersrank](https://codersrank.io)
 
---
+----
 
 #### Das Repository
 
-* Einige Parameter des Repositories:
-  * Gibt es eine README?
-  * Wann wurde das Repository zuletzt upgedatet?
-  * Ist eine Lizenz angegeben?
-  * Gibt es bereits (regelmäßige Releases) mit Changelogs?
+Einige Parameter des Repositories:
+* Gibt es eine README?
+* Wann wurde das Repository zuletzt upgedatet?
+* Ist eine Lizenz angegeben?
+* Gibt es bereits (regelmäßige Releases) mit Changelogs?
 
 
---
+----
 
 #### Das Repository II
 
@@ -362,75 +365,86 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
   * Wie lange gibt es das Repository bereits?
   * Wie ist der Contributionverlauf über diese Zeitspanne?
 
---
+----
 
 #### Softwaredokumentation
 
-* Wie wird die Software dokumentiert?
-  * Gibt es eine Quellcodedokumentation in HTML oder als PDF?
-  * Gibt es einen Guide für Entwickler?
-  * Gibt es Tutorials für die Nachnutzung bestimmter Teile der Software?
-  * Wie wird die Softwaredokumentation aktualisiert?
+Wie wird die Software dokumentiert?
+* Gibt es eine Quellcodedokumentation in HTML oder als PDF?
+* Gibt es einen Guide für Entwickler?
+* Gibt es Tutorials für die Nachnutzung bestimmter Teile der Software?
+* Wie wird die Softwaredokumentation aktualisiert?
   
---
+----
 
 #### Entwicklerdokumentation
 
-* Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
-  * Ist der Build Prozess nachvollziehbar beschrieben?
-  * Für welchen spezifischen Entwicklerusecase wurde die Software entwickelt?
-  * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
-  * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
+Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
+* Ist der Build Prozess nachvollziehbar beschrieben?
+* Für welchen spezifischen Entwicklerusecase wurde die Software entwickelt?
+* Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
+* Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
   
---
+----
 
 #### Contribution
 
-* Wie können Entwickler zur Software beitragen?
-  * Werden Pull Requests vom Entwickler akzeptiert/bearbeitet?
-  * Gibt es einen Contribution Guide wie Pull Requests aussehen sollen?
-  * Wie reagiert der Entwickler auf Anmerkungen/Issues?
-  * Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
+Wie können Entwickler zur Software beitragen?
+* Werden Pull Requests vom Entwickler akzeptiert/bearbeitet?
+* Gibt es einen Contribution Guide wie Pull Requests aussehen sollen?
+* Wie reagiert der Entwickler auf Anmerkungen/Issues?
+* Ist der Entwickler in weiteren Plattformen erreichbar? (e.g. Gitter?)
 
---
+----
   
 #### Die Software
 
-* Welche Aufgabe(n) soll die Software erfüllen?
-  * Was ist der Input und der Output der Software?
-  * Gibt es Beispiele und Beispieldaten?
-  * Wie kann die Software gebaut werden?
-  * Gibt es Nachweise für das korrekte Bauen der Software (CI)?
+Welche Aufgabe(n) soll die Software erfüllen?
+* Was ist der Input und der Output der Software?
+* Gibt es Beispiele und Beispieldaten?
+* Wie kann die Software gebaut werden?
+* Gibt es Nachweise für das korrekte Bauen der Software (CI)?
   
---
+----
 
 #### Codequalität
 
-* Codequalität der Software
-  * Gibt es einen einheitlichen Codingstyle?
-  * Ist der Aufbau der Software modular?
-  * Werden Libraries oder standardisierte Metriken für die Codequalität angewendet?
+Codequalität der Software
+* Gibt es einen einheitlichen Codingstyle?
+* Ist der Aufbau der Software modular?
+* Werden Libraries oder standardisierte Metriken für die Codequalität angewendet?
+* Macht der Entwickler seine Maßstäbe and Codequalität transparent?
 
---
+----
 
 #### Software Tests
 
-* Gibt es ein Testframework für die Funktionalität der Software?
-  * Gibt es einen einheitlichen Codingstyle?
-  * Ist der Aufbau der Software modular?
-  * Wie ist die Testabdeckung der Software?
-  * Gibt es Usability Tests oder nur Unit Tests?
+Gibt es ein Testframework für die Funktionalität der Software?
+* Gibt es einen einheitlichen Codingstyle?
+* Ist der Aufbau der Software modular?
+* Wie ist die Testabdeckung der Software?
+* Gibt es Usability Tests oder nur Unit Tests?
 
---
+----
 
 #### Performanz der Software
 
-* Wie gut kann die Software ihre Aufgabe erfüllen?
-  * Gibt es Benchmarks zur Evaluation der Software?
-  * Vergleicht sich die Software mit anderen ähnlichen Produkten?
-  * Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
+Wie gut kann die Software ihre Aufgabe erfüllen?
+* Gibt es Benchmarks zur Evaluation der Software?
+* Vergleicht sich die Software mit anderen ähnlichen Produkten?
+* Sollte ggf. ein eigener Benchmark in der Softwarerezension vorgenommen werden?
 
---
+----
+
+#### Software Community
+
+Hat sich eine (Entwickler-)Community um die Software gebildet?
+* Community auf z.B. Stackoverflow?
+* Wird die Software in Publikationen verwendet?
+* Ist anderweitig ersichtlich wie die Software verwendet wird (Blogposts, Twitter usw.)?
+* Wie ist das Feedback der Community und welche Kritiken geben Sie?
+
+----
 
 #### Zusammentragen von Kriterien
 
@@ -438,7 +452,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 [Framapad *IV Kriterien Anwender\_innen*](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq)
 
---
+----
 
 #### Beurteilung der jeweiligen Software aus Entwicklerperspektive
 
