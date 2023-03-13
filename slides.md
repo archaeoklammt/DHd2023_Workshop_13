@@ -10,11 +10,7 @@
 
 ---
 
-### Start
-
----
-
-#### Wer sind wir ?
+### Start: Wer sind wir ?
 
 * [Framacalc](https://lite.framacalc.org/g591qh1qc8-9zt0)
 
