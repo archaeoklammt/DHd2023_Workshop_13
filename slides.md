@@ -417,6 +417,19 @@ Codequalität der Software
 
 ----
 
+#### Codequalität II
+
+Beispiele für Codequalität (sprachspezifisch):
+* Aussagekräftige Variablen/Methoden/Klassenbenennung
+* Einheitliche Einrückung
+* Pro Klasse/Methode eine eindeutige Funktion/ein eindeutiges Ziel
+* KISS (Keep It Simple Stupid)
+* Nutzung von Design Patterns 
+
+(Coding Style (Wikipedia))[https://en.wikipedia.org/wiki/Coding_best_practices]
+
+----
+
 #### Software Tests
 
 Gibt es ein Testframework für die Funktionalität der Software?
