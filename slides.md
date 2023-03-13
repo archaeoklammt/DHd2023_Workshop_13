@@ -177,7 +177,8 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 * kurzer Abgleich
 * *Wichtiger Aspekt:* Welche Version der Software wird eigentlich getestet?
    * Wie stelle ich sicher, dass die Leser darüber informiert sind und die Version nachvollziehen können?
-----
+
+---
 
 ## III Perspektive Anwender\_innen
 
