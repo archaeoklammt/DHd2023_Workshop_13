@@ -172,7 +172,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-### *Den Wald vor lauter Bäumen nicht sehen - Schwerpunkte in der Beschreibung aus Anwender\*innensicht setzen*
+### Den Wald vor lauter Bäumen nicht sehen - Schwerpunkte in der Beschreibung aus Anwender\*innensicht setzen
 
 ----
 
@@ -185,14 +185,14 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-##### zu Niveau fachlicher Kompetenz - Beispiel Voyant Tools
+zu Niveau fachlicher Kompetenz - Beispiel Voyant Tools
 
 * Vorgehensweise der Tools werden ausführlich erklärt [Voyant Tools Guise - Tools](https://voyant-tools.org/docs/#!/guide/tools)
 * Tool [Kartieren nach Zahlen](https://digilab-hait.de/colormap/page/seiten/welt/countryborders.html) zur Erstellung thematischer Karten setzt demonstrativ niedrigschwellig an
  
 ----
 
-##### zu Sprachen - Beispiel QGIS
+zu Sprachen - Beispiel QGIS
 
 * Einstieg in 36 Sprachen
 * die Übersetzungen des Benutzerhandbuchs durch die *community* werden durch einen eigenen Ablauf unterstützt 
@@ -201,7 +201,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-##### zu Arbeitsplatzausstattung - Beispiel IPad Archäologie
+zu Arbeitsplatzausstattung - Beispiel IPad Archäologie
 
 * Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden
 
@@ -217,14 +217,14 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-#### zu Isoliertes Arbeiten / Gruppenarbeit
+zu Isoliertes Arbeiten / Gruppenarbeit
 
 * individuelles Arbeiten mit [Openrefine](https://openrefine.org)
 * ortsverteiltes syn- und diachrones Arbeiten mit [Recogito](https://recogito.pelagios.org)
 
 ----
 
-#### zu Wiederkehrend Texteingaben
+zu Wiederkehrend Texteingaben
 
 * automatische Rechtschreibprüfung für Dateneingabe ([Website HAIT e.V.](https://hait.tu-dresden.de/ext/lehre/lehre-veranstaltungsinformation-6264/))
 
@@ -248,19 +248,19 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-##### zu gesetzlichen Vorgaben 
+zu gesetzlichen Vorgaben 
 
 * Zoom-Dienste aktuell nicht in der Ukraine, dem Iran und weiteren Ländern nutzbar ([Einschränkungen nach Webseite von Zoom](https://support.zoom.us/hc/de/articles/203806119-L%C3%A4nder-oder-Regionen-mit-Einschr%C3%A4nkungen))
 
 ----
 
-##### zu "kulturellem" Gepäck in den Sprachen und Terminologien 
+zu "kulturellem" Gepäck in den Sprachen und Terminologien 
 
 * 2020 Wechsel vom *master-* zum *main-*branch bei Github (mehr: [E. Landau auf Wired, 6.7. 2020](https://www.wired.com/story/tech-confronts-use-labels-master-slave/))
 
 ----
 
-##### zu Fragen des Datenschutz
+zu Fragen des Datenschutz
 
 * Tracking von Aktivitäten (Github)
 * Nutzung nur nach Freigabe verschiedener Zugriffe möglich?
@@ -268,7 +268,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-##### zu ethischen Bedenken
+zu ethischen Bedenken
 
 * Packages, die im Kontext staatl. Überwachung und Militär entwickelt wurden (z.B. ESRI)
 * Modelle, die von Clickworker\_innen trainiert wurden ([N. Simon on Mantra Labs 25.07.2019](https://www.mantralabsglobal.com/blog/ai-in-africa-artificial-intelligence-africa/))?
@@ -280,7 +280,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 * gemeinsames Arbeiten 
 
-Framapads zu Kriterien Anwender\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)
+Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)
 
 ----
 
@@ -474,7 +474,7 @@ Hat sich eine (Entwickler-)Community um die Software gebildet?
 
 * gemeinsames Arbeiten 
 
-[Framapad *IV Kriterien Anwender\_innen*](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq)
+Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)
 
 ----
 
