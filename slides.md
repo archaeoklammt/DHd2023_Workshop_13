@@ -361,6 +361,16 @@ Einige Parameter des Repositories:
 
 ----
 
+#### Aktivität
+
+  * Gibt es regelmäßige Releases der Software? Wenn ja Major or Minor, wenn nein warum nicht?
+  * Gibt es eine Roadmap für die weitere Entwicklung der Software und wurde diese befolgt?
+  * Gab es einen Wechsel der Main Contributor und welchen Einfluss hatte das?
+  * Wurde das Repository oft geforkt und sind diese Forks aktiv?
+  * Gibt es ein reges Interesse am Repository z.B. durch Github Sterne gekennzeichnet?
+
+----
+
 #### Softwaredokumentation
 
 Wie wird die Software dokumentiert?
