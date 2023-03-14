@@ -181,14 +181,14 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-#### Thema: Niveau fachlicher Kompetenz - Beispiel Voyant Tools
+zu Niveau fachlicher Kompetenz - Beispiel Voyant Tools
 
 * Vorgehensweise der Tools werden ausführlich erklärt [Voyant Tools Guise - Tools](https://voyant-tools.org/docs/#!/guide/tools)
 * Tool [Kartieren nach Zahlen](https://digilab-hait.de/colormap/page/seiten/welt/countryborders.html) zur Erstellung thematischer Karten setzt demonstrativ niedrigschwellig an
  
 ----
 
-#### Thema: Sprachen - Beispiel QGIS
+zu Sprachen - Beispiel QGIS
 
 * Einstieg in 36 Sprachen
 * die Übersetzungen des Benutzerhandbuchs durch die *community* werden durch einen eigenen Ablauf unterstützt 
@@ -197,7 +197,7 @@ Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLi
 
 ----
 
-#### Thema: Arbeitsplatzausstattung - Beispiel IPad Archäologie
+zu Arbeitsplatzausstattung - Beispiel IPad Archäologie
 
 * Einsatz von IPads zur Dokumentation von archäologischen Befunden und Funden
 
