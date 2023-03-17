@@ -20,7 +20,7 @@
 
 * Gemeinsames Sammeln und Gruppieren
 
-[Framapad II *Warum Software rezensieren?*](https://mypads2.framapad.org/p/warum-software-rezensieren-rs4rxb9s8)
+[Framapad II *Warum Software rezensieren?*](https://mypads2.framapad.org/p/warum-software-rezensieren-rs4rxb9s8); ab 18.3. read-only
 
 ----
 
@@ -95,8 +95,9 @@ Wozu soll Pixplot eingesetzt werden?
 #### SPARQLing Unicorn QGIS Plugin
 
 * Kultur- und Geisteswissenschaften, die mit Raumbezug arbeiten
-* aus der Archäoinformatik und DH heraus entwickelt [Literatur]()
+* aus der Archäoinformatik und DH heraus entwickelt
 * Konzept: Integration von Linked Open Data in QGIS
+* Link: [SPARQLing Unicorn QGIS Plugin](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
 
 ----
 
@@ -120,7 +121,8 @@ Wozu soll das Plugin eingesetzt werden?
 
 * Lehre und Transfer mit Digitalisaten von Bildern und Videos
 * aus den Digital Humanities heraus
-* Konzept & Umsetzung: Alex Gil und Marii Nyröp [Konzept](https://minicomp.github.io/wax/about/)
+* Konzept & Umsetzung: Alex Gil und Marii Nyröp 
+* [Konzept](https://minicomp.github.io/wax/about/)
 
 ----
 
@@ -143,15 +145,15 @@ Wozu soll Wax eingesetzt werden?
 
 ### Kriterien zur Beurteilung der Funktion in der Forschung
 
-Framapads: [IIIa](https://mypads2.framapad.org/p/iiia-funktion-in-der-forschung-qq4ryb93s), [IIIb](https://mypads2.framapad.org/p/iiib-funktion-in-der-forschung-w44rzb9eu), [IIIc](https://mypads2.framapad.org/p/iiic-funktion-in-der-forschung-934s0b94g) - Funktion in der Forschung
+Framapad: [IIIa](https://mypads2.framapad.org/p/iiia-funktion-in-der-forschung-qq4ryb93s), [IIIb](https://mypads2.framapad.org/p/iiib-funktion-in-der-forschung-w44rzb9eu), [IIIc](https://mypads2.framapad.org/p/iiic-funktion-in-der-forschung-934s0b94g) - Funktion in der Forschung; ab 18.3. read-only
 
 ----
 
-#### Patenschaften
+<!--#### Patenschaften
 
 * Entscheidung für eine der Softwares für die Bearbeitung heute
 
-Framapads: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLing Unicorn](https://mypads2.framapad.org/p/sparqling-unicorn-gh4s7b90f), [Wax](https://mypads2.framapad.org/p/wax-xe4s8b9fl), ...
+Framapad: [Pixplot](https://mypads2.framapad.org/p/pixplot-p54s6b9xc), [SPARQLing Unicorn](https://mypads2.framapad.org/p/sparqling-unicorn-gh4s7b90f), [Wax](https://mypads2.framapad.org/p/wax-xe4s8b9fl), ... --->
 
 ----
 
@@ -272,17 +274,17 @@ zu ethischen Bedenken
 
 ----
 
-#### Zusammentragen von Kriterien
+<!--#### Zusammentragen von Kriterien
 
 * gemeinsames Arbeiten 
 
-Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)
+Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://mypads2.framapad.org/p/iv-kriterien-anwender-innen-2x4scb9qq); [IVb](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/pad-ivb-kriterien-anwender-innen-im17wk9od); [IVc](https://mypads2.framapad.org/mypads/?/mypads/group/dhd2023-workshop-13-j64rtb9jb/pad/view/ivc-kriterien-fur-anwender-innen-ss189k9cj)--->
 
 ----
 
 #### Beurteilung der jeweiligen Software
 
-*Arbeiten im jeweiligen Framapad*
+*Arbeiten im Framapad*
 
 * kurzer Abgleich
 
@@ -325,14 +327,14 @@ Wer ist der Autor?
 * Professioneller Softwareentwickler/Informatiker?
 * Skriptkiddy?
 * Student? Wenn ja aus welcher Fachwissenschaft?
-* Hat der Autor noch weitere Software die er pflegt (zu pflegen scheint?)
+* Hat der Autor noch weitere Software, die er pflegt (zu pflegen scheint?)
 * Wie lange ist der Autor auf Github/Gitlab?
 
 ----
 
 #### Kompetenz des Autors II
 
-  * Wie aktiv ist er in der jewiligen Programmiersprache?
+  * Wie aktiv ist er in der jeweiligen Programmiersprache?
   * Hat der Autor Profilbadges von Webseiten wie Codersrank o.ä.?
   * Ist der Autor schon mir Publikationen zu dieser Software in Erscheinung getreten?
 
@@ -385,7 +387,7 @@ Wie wird die Software dokumentiert?
 
 Wie einfach wird es einem Entwickler gemacht die Software zu verstehen?
 * Ist der Build Prozess nachvollziehbar beschrieben?
-* Für welchen spezifischen Entwicklerusecase wurde die Software entwickelt?
+* Für welchen spezifischen Entwickler-Usecase wurde die Software entwickelt?
 * Welche Details gibt es bei der Installation/Modifikation der Software zu beachten?
 * Gibt es verwandte Software die der Entwickler vor dem Start konsultieren sollte?
 * Ist die Entwicklerdokumentation up-to-date?
@@ -470,6 +472,8 @@ Wie gut kann die Software ihre Aufgabe erfüllen?
 
 [Beispiel: Performance Benchmark](https://www.mdpi.com/2220-9964/8/7/310)
 
+----
+
 #### Software Community
 
 Hat sich eine (Entwickler-)Community um die Software gebildet?
@@ -490,7 +494,7 @@ Framapads zu Kriterien von Anwender\*innen und Entwickler\*innen [IVa](https://m
 
 #### Beurteilung der jeweiligen Software aus Entwicklerperspektive
 
-*Arbeiten im jeweiligen Framapad*
+*Arbeiten im Framapad*
 
 * kurzer Abgleich
 
